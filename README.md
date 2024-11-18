@@ -1,6 +1,6 @@
 # The 8 Show
 
-![image](https://github.com/user-attachments/assets/7a0c6bfb-974d-4cdc-9b63-5f73c3d97dc1)
+--- ![image](https://github.com/user-attachments/assets/7a0c6bfb-974d-4cdc-9b63-5f73c3d97dc1)
 
 Eight strangers are offered to participate in a game where they will be locked inside a building and earn a substantial amount of money for each minute the game continues. Each are sequestered at night in a different room on eight separate floors, during which they purchase all of their basic provisions at one hundred times their normal cost using their current prize earnings, while during the day they can use a portion of their remaining time to buy provisions for the group.
 
